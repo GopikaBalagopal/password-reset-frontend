@@ -39,9 +39,9 @@ export default function UsernamePage() {
       <hr></hr>
       <div className="textfields">
       <form className='py-1' onSubmit={formik.handleSubmit}>
-              <div className='profile d-flex justify-content-center py-2'>
+              {/* <div className='profile d-flex justify-content-center py-2'>
                   <img src={avatar} style={{width:"50%",height:"50%"}} className="" alt="avatar" />
-              </div>
+              </div> */}
 
               <div style={{margin:"1%"}}>
                 <div style={{margin:"1%",marginBottom:"2%"}}><label>Username</label></div>
