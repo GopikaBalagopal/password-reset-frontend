@@ -1,1 +1,1 @@
-export const API = "http://127.0.0.1:3002";
+export const API = "https://password-reset-backend-51cm.onrender.com";
